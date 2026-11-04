@@ -41,6 +41,7 @@ I am learning AI engineering to understand tools I use and to become an AI engin
 | 2026-10-26 | 00/01-dev-environment | 2/3 | Review the stack order; I initially placed package managers before the system foundation. |
 | 2026-10-29 | 00/02-git-and-collaboration | 3/3 | Clarified that staging lets you choose which file changes go into a commit. |
 | 2026-10-29 | 00/03-gpu-setup-and-cloud | 1/3 | Review `nvidia-smi` and estimate fp16 model capacity at 2 bytes per parameter; understood GPU synchronization after explanation. |
+| 2026-11-04 | 00/04-apis-and-keys | 3/3 | Correctly identified that the SDK builds and sends HTTP requests; clarified HTTP 429 rate-limit responses versus authentication errors. |
 
 ## Review queue
 - Phase 0, Lesson 1: Dev Environment — review the four-layer stack order (system foundation comes first).
